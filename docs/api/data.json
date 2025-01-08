@@ -1,30 +1,31 @@
 {
-    "europe": {
-        "denmark": [
+    "europe": 
+    {
+        "denmark": [{
+            "id": "d1",
+            "name": "Little Mermaid",
+            "image": "d_mermaid.webp",
+            "location": "Copenhagen",
+            "description": "The bronze statue rests on a rock by the waterfront at Langelinie promenade in Copenhagen, Denmark. The statue is a fine piece of art designed by Edvard Eriksen is yet another of the famous sculptures in the world that must be visited.",
+            "build": 1913,
+            "geolocation" : {
+                "latitude" : 55.69295,
+                "longitude" : 12.59931
+            }
+        },
             {
-                "id": "d1",
-                "name": "Little Mermaid",
-                "image": "d_mermaid.webp",
-                "location": "Copenhagen",
-                "description": "The bronze statue rests on a rock by the waterfront at Langelinie promenade in Copenhagen, Denmark. The statue is a fine piece of art designed by Edvard Eriksen is yet another of the famous sculptures in the world that must be visited.",
-                "build": 1913,
-                "geolocation": {
-                    "latitude": 55.69295,
-                    "longitude": 12.59931
-                }
-            },
-            {
-                "id": "d2",
-                "name": "Gefion Fountain",
-                "image": "d_Gefion_Fountain.jpg",
-                "location": "Copenhagen",
-                "description": "The fountain was donated to the city of Copenhagen by the Carlsberg Foundation on the occasion of the brewery's 50-year anniversary. It was originally supposed to be located in the main town square outside city hall, but it was decided instead to build it near the Øresund in its current location near Kastellet ('The Citadel').",
-                "build": 1908,
-                "geolocation": {
-                    "latitude": 55.68699,
-                    "longitude": 12.591830
+                "id" : "d2",
+                "name" : "Gefion Fountain",
+                "image" : "d_Gefion_Fountain.jpg",
+                "location" : "Copenhagen",
+                "description" : "The fountain was donated to the city of Copenhagen by the Carlsberg Foundation on the occasion of the brewery's 50-year anniversary. It was originally supposed to be located in the main town square outside city hall, but it was decided instead to build it near the Øresund in its current location near Kastellet ('The Citadel').",
+                "build" : 1908,
+                "geolocation" : {
+                    "latitude" : 55.68699,
+                    "longitude" : 12.591830
                 }
             }
+
         ],
         "france": {
             "id": "f1",
@@ -32,24 +33,23 @@
             "image": "f_thinker.webp",
             "location": "Paris",
             "description": "Among all world famous statues, The Thinker is a bronze sculpture by Auguste Rodin, placed on a stone pedestal. The work shows a nude male figure of over life-size sitting on a rock with his chin resting on one hand. The statue is surrounded by a sprawling garden and a museum. A day out here with family is the most appropriate thing to do. The statue is located in the heart of the city, so it’s not at all difficult reaching there.",
-            "build": 1904,
-            "geolocation": {
-                "latitude": 48.85602,
-                "longitude": 2.31558
+            "build": 1904,            
+            "geolocation" : {
+                "latitude" : 48.85602,
+                "longitude" : 2.31558
             }
         },
-        "italy": [
-            {
+        "italy": [{
                 "id": "i1",
                 "name": "David",
                 "image": "i_david.webp",
                 "location": "Firenze",
                 "description": "Of all the classics of the Renaissance era, David by Michaelangelo is one of the finest creations ever. Carved out of a marble, this naked sculpture, located in Firenze in Italy, is certainly one of the famous sculptures in the world that observe a huge number of tourist every year. Today, the statue of Michaelangelo represents Italy as one the perfect place exhibiting Renaissance art.",
                 "build": 1504,
-                "geolocation": {
-                    "latitude": 43.77689,
-                    "longitude": 11.25928
-                }
+            "geolocation" : {
+                "latitude" : 43.77689,
+                "longitude" : 11.25928
+            }
             },
             {
                 "id": "i2",
@@ -58,9 +58,9 @@
                 "location": "Tuscany",
                 "description": "One of the oldest and largest statues in the world is The Pieta located in Italy. Every year thousands of tourists come to visit this masterpiece which is known for its unique architecture and culture. The statue depicts mother Mary holding Jesus after the crucifixion.",
                 "build": 1300,
-                "geolocation": {
-                    "latitude": 41.90243,
-                    "longitude": 12.45397
+                "geolocation" : {
+                    "latitude" : 41.90243,
+                    "longitude" : 12.45397
                 }
             }
         ],
@@ -71,65 +71,69 @@
             "location": "Delos",
             "description": "Famed for being the birthplace of Apollo and his sister Artemis, Terrace of the Lions is a remarkable archaeological site on Delos Island. Dating back to ancient times, this is one of the famous statues in the world which you must cover on your next trip to Greece. The Terrace of the Lions is a series of 12 stone lions places in the exact position that are believed to be built by people of Naxos in the honor of Apollo.",
             "build": -600,
-            "geolocation": {
-                "latitude": 37.40261,
-                "longitude": 25.26700
+            "geolocation" : {
+                "latitude" : 37.40261,
+                "longitude" : 25.26700
             }
         },
-        "belgium": [
-            {
-                "id": "b1",
-                "name": "The Manneken Pis",
-                "image": "b_mp.webp",
-                "location": "Brussels",
-                "description": "Manneken Pis is a bronze fountain statue of a baby boy peeing into a water basin and undeniably one of the famous statues in the world. This 61 cm statue remains the emblem of the rebellious spirit of Brussels. It was installed in the 17th Century and is a most visited place in Belgium. It has played an important role in the distribution of drinking water in Brussels. Sometimes it is nice to see the Manneken Pis dressed in different costumes on major occasions. Visitors can find various tourist shops and waffle stands around this junction.",
-                "build": 1618,
-                "geolocation": {
-                    "latitude": 50.84516,
-                    "longitude": 4.35000
-                }
-            },
-            {
-                "id": "b2",
-                "name": "Brabo Fountain",
-                "image": "b_brabo.jpg",
-                "location": "Antwerp",
-                "description": "Markt of Antwerp are always impressed by the extravagant 16th-century city hall and guildhalls that surround the historic main square. And then they take a closer look at the central fountain, which for those unfamiliar with local legend is quite a peculiar sight: a naked man in the act of throwing a huge severed hand.",
-                "build": 1887,
-                "geolocation": {
-                    "latitude": 51.22131,
-                    "longitude": 4.39973
-                }
+
+        "belgium": [{
+            "id": "b1",
+            "name": "The Manneken Pis",
+            "image": "b_mp.webp",
+            "location": "Brussels",
+            "description": "Manneken Pis is a bronze fountain statue of a baby boy peeing into a water basin and undeniably one of the famous statues in the world. This 61 cm statue remains the emblem of the rebellious spirit of Brussels. It was installed in the 17th Century and is a most visited place in Belgium. It has played an important role in the distribution of drinking water in Brussels. Sometimes it is nice to see the Manneken Pis dressed in different costumes on major occasions. Visitors can find various tourist shops and waffle stands around this junction.",
+            "build": 1618,
+            "geolocation" : {
+                "latitude" : 50.84516,
+                "longitude" : 4.35000
             }
-        ]
+        },
+        {
+            "id": "b2",
+            "name": "Brabo Fountain",
+            "image": "b_brabo.jpg",
+            "location": "Antwerp",
+            "description": "Markt of Antwerp are always impressed by the extravagant 16th-century city hall and guildhalls that surround the historic main square. And then they take a closer look at the central fountain, which for those unfamiliar with local legend is quite a peculiar sight: a naked man in the act of throwing a huge severed hand.",
+            "build": 1887,
+            "geolocation" : {
+                "latitude" : 51.22131,
+                "longitude" : 4.39973
+            }
+        }
+    
+    
+    ]
+
     },
-    "amerika": {
-        "united-states": [
-            {
-                "id": "us1",
-                "name": "Statue Of Liberty",
-                "image": "us_liberty.webp",
-                "location": "New York",
-                "description": "Regarded as one of the popular sculptures and famous statues around the world, the Statue of Liberty was gifted to the United States from the people of France. Since 1886, the statue has been with the United States and today it stands as an insignia of liberty and democracy. The statue’s copper torch was later replaced 24-carat gold torch which is noticeable from a distance.",
-                "build": 1886,
-                "geolocation": {
-                    "latitude": 36.1336,
-                    "longitude": -95.9311
-                }
-            },
-            {
-                "id": "us2",
-                "name": "Golden Driller",
-                "image": "Golden_Driller.jpg",
-                "location": "Tulsa",
-                "description": "The Golden Driller is a 75-foot-tall (23 m), 43,500-pound (19,700 kg)[1] statue in Tulsa, Oklahoma, depicting an oil worker. The structure is a steel frame covered with concrete and plaster.[2] It is the sixth-tallest statue in the United States and has been located in front of the Tulsa Expo Center since 1966.",
-                "build": 1966,
-                "geolocation": {
-                    "latitude": 40.68942,
-                    "longitude": -74.04449
-                }
+
+    "non-europe":
+    {
+        "united-states": [{
+            "id": "us1",
+            "name": "Statue Of Liberty",
+            "image": "us_liberty.webp",
+            "location": "New York",
+            "description": "Regarded as one of the popular sculptures and famous statues around the world, the Statue of Liberty was gifted to the United States from the people of France. Since 1886, the statue has been with the United States and today it stands as an insignia of liberty and democracy. The statue’s copper torch was later replaced 24-carat gold torch which is noticeable from a distance.",
+            "build": 1886,
+            "geolocation" : {
+                "latitude" : 36.1336,
+                "longitude" : -95.9311
             }
-        ],
+        },
+        {
+            "id": "us2",
+            "name": "Golden Driller",
+            "image": "Golden_Driller.jpg",
+            "location": "Tulsa",
+            "description": "The Golden Driller is a 75-foot-tall (23 m), 43,500-pound (19,700 kg)[1] statue in Tulsa, Oklahoma, depicting an oil worker. The structure is a steel frame covered with concrete and plaster.[2] It is the sixth-tallest statue in the United States and has been located in front of the Tulsa Expo Center since 1966.",
+            "build": 1966,
+            "geolocation" : {
+                "latitude" : 40.68942,
+                "longitude" : -74.04449
+            }
+        }]       
+        ,
         "brazil": {
             "id": "br1",
             "name": "Christ The Redeemer",
@@ -137,9 +141,9 @@
             "location": "Rio De Janeiro",
             "description": "Very well-known as one of the famous statues in the world, Christ The Redeemer is made of concrete and soapstone, which was built during 1922-31 in Rio De Janeiro. The statue sits atop Corcovado mountain in the Tijuca Forest National Park, and today, it is one of the prominent attractions in Brazil as well as South America.",
             "build": 1931,
-            "geolocation": {
-                "latitude": -22.95168,
-                "longitude": -43.21052
+            "geolocation" : {
+                "latitude" : -22.95168,
+                "longitude" : -43.21052
             }
         },
         "chile": {
@@ -149,25 +153,12 @@
             "location": "Moai",
             "description": "Easter Island Heads, popularly known as Moai, is another strange yet most famous sculpture in the world. It has also been maintained that most of these statues have bodies buried inside the ground. Which speaks volume of the ancient Easter Island civilization. The most interesting part about these statues is their detailing and how people from that time created monolithic sculptures.  A lot of statues with head jutting out of the land can be found on the island which looks so fascinating amidst the infinite grasslands.",
             "build": 1100,
-            "geolocation": {
-                "latitude": -27.14002,
-                "longitude": -109.32989
+            "geolocation" : {
+                "latitude" : -27.14002,
+                "longitude" : -109.32989
             }
+
         },
-        "mexico": {
-            "id": "m2",
-            "name": "Olmec Colossal Heads",
-            "image": "m_Head.webp",
-            "location": "San Lorenzo",
-            "description": "Olmec Colossal Heads located in Mexico is indeed one of the famous statues around the world. The statue is sculpted out of enormous basalt bounders and the heads have a mysterious history. A total of 17 heads have been discovered till date and each head expressing differently.",
-            "build": -1300,
-            "geolocation": {
-                "latitude": 19.14532,
-                "longitude": -98.24024
-            }
-        }
-    },
-    "azia": {
         "turkey": {
             "id": "t1",
             "name": "The Statues Of Mount Nemrut",
@@ -175,9 +166,21 @@
             "location": "Adiyaman",
             "description": "Among all the popular attractions that can be found in the Turkish Mountains, The Statues of Mount Nemrut is the most prominent. At 7000 feet, Mt. Nemrut – the throne of Gods, is a breathtaking beauty located in Turkish mountains that dates back to more than 2000 years. Mount Nemrut is a historical site that houses some of the most famous statues in the world.",
             "build": -60,
-            "geolocation": {
-                "latitude": 37.98124,
-                "longitude": 38.74173
+            "geolocation" : {
+                "latitude" : 37.98124,
+                "longitude" : 38.74173
+            }
+        },
+        "russia": {
+            "id": "r1",
+            "name": "The Motherland Calls Statue",
+            "image": "r_calls.webp",
+            "location": "Wolgograd",
+            "description": "This monumental statue in Russia was built in the honor of The Battle of Stalingrad. It stands on the bank of the river Volga and is 85 meters tall. It is built on the Mamayev Hill where a memorial exists in the memory of the heroes of the battle. It is an inspiration to many sculptors from across the world because of its unusual structure challenging the geometry. It is a statue of a woman(Motherland) walking with a raised sword calling on to her sons to stand up for the battle. Visitors have to walk up 200 stairs to reach the statue as it signifies the 200 days of battle. The statue has been reportedly tilting a little due to the groundwater movement that is, in turn, shifting the foundation.",
+            "build": 1967,
+            "geolocation" : {
+                "latitude" : 48.74250,
+                "longitude" : 44.53705
             }
         },
         "india": {
@@ -187,9 +190,9 @@
             "location": "Gujarat",
             "description": "This 182 meters tall Bronze statue of Sardar Vallabhai Patel is the tallest statue in the whole world. Renowned as the architect of modern India who united 562 Princely States to make the Republic of India, Sardar Vallabhai Patel was the first Deputy Prime Minister of independent India. He is fondly known as ‘the Iron Man of India’ who worked for the welfare of farmers.",
             "build": 2018,
-            "geolocation": {
-                "latitude": 21.88013,
-                "longitude": 73.72847
+            "geolocation" : {
+                "latitude" : 21.88013,
+                "longitude" : 73.72847
             }
         },
         "egypt": {
@@ -199,22 +202,21 @@
             "location": "Giza Desert",
             "description": "One of the most famous statues in the world, Great Sphinx of Giza, is a massive work of art that depicts a human head mounted on a massive lion body, all made out of limestone. Watch it at the time of sunset when the sky looks orange-ish with golden sunrays scattered over the massive statue. Add to it the huge Pyramids in the backdrop and there you have, one of the most sumptuous evening ever!",
             "build": -2500,
-            "geolocation": {
-                "latitude": 29.97548,
-                "longitude": 31.13754
+            "geolocation" : {
+                "latitude" : 29.97548,
+                "longitude" : 31.13754
             }
         },
-        "china": [
-            {
+        "china": [{
                 "id": "c1",
                 "name": "Spring Temple Buddha",
                 "image": "c_buddha.webp",
                 "location": "Lushan",
                 "description": "At 128 m, Spring Temple Buddha stands as the world’s tallest statue. It took 11 years to complete this massive structure comprising of 1100 copper casts. The statue standing on a 20 m tall lotus throne is located in Henan province in China. The spring by the temple inspires its name. Such is the charisma of this statue that it would leave you spellbound for sure.",
                 "build": 2005,
-                "geolocation": {
-                    "latitude": 33.72564,
-                    "longitude": 112.26724
+                "geolocation" : {
+                    "latitude" : 33.72564,
+                    "longitude" : 112.26724
                 }
             },
             {
@@ -224,10 +226,11 @@
                 "location": "Xian",
                 "description": "One of the world famous statues is none other than The Terracotta Army located in China which is carved out of Terracotta clay. Legends say that more than 700,000 labourers worked day in and out to built this masterpiece which is an army where every soldier has a different facial expression.",
                 "build": -230,
-                "geolocation": {
-                    "latitude": 34.38434,
-                    "longitude": 109.27853
+                "geolocation" : {
+                    "latitude" : 34.38434,
+                    "longitude" : 109.27853
                 }
+    
             },
             {
                 "id": "c3",
@@ -236,25 +239,24 @@
                 "location": "Sichuan",
                 "description": "In Lushan, the Leshan Giant Buddha is one of the most popular and tallest statues in China. It is considered to have been carved out of a cliff of Qifeng Peak which is regarded as the largest stone statue of Maitreya. The statue is built over the meeting point of the three rivers which was to calm down the turbulence which occurred due to falling of stones in the river.",
                 "build": 800,
-                "geolocation": {
-                    "latitude": 29.54539,
-                    "longitude": 103.77155
+                "geolocation" : {
+                    "latitude" : 29.54539,
+                    "longitude" : 103.77155
                 }
             }
-        ]
-    },
-    "russia": {
-        "russia": {
-            "id": "r1",
-            "name": "The Motherland Calls Statue",
-            "image": "r_calls.webp",
-            "location": "Wolgograd",
-            "description": "This monumental statue in Russia was built in the honor of The Battle of Stalingrad. It stands on the bank of the river Volga and is 85 meters tall. It is built on the Mamayev Hill where a memorial exists in the memory of the heroes of the battle. It is an inspiration to many sculptors from across the world because of its unusual structure challenging the geometry. It is a statue of a woman(Motherland) walking with a raised sword calling on to her sons to stand up for the battle. Visitors have to walk up 200 stairs to reach the statue as it signifies the 200 days of battle. The statue has been reportedly tilting a little due to the groundwater movement that is, in turn, shifting the foundation.",
-            "build": 1967,
-            "geolocation": {
-                "latitude": 48.74250,
-                "longitude": 44.53705
+        ],
+        "mexico": {
+            "id": "m2",
+            "name": "Olmec Colossal Heads",
+            "image": "m_Head.webp",
+            "location": "San Lorenzo",
+            "description": "Olmec Colossal Heads located in Mexico is indeed one of the famous statues around the world. The statue is sculpted out of enormous basalt bounders and the heads have a mysterious history. A total of 17 heads have been discovered till date and each head expressing differently.",
+            "build": -1300,
+            "geolocation" : {
+                "latitude" : 19.14532,
+                "longitude" : -98.24024
             }
         }
+
     }
 }
